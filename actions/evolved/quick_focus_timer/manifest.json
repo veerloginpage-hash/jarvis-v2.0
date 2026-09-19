@@ -1,0 +1,16 @@
+{
+  "name": "quick_focus_timer",
+  "description": "Starts a focus timer for a specified number of minutes and notifies the user when it's done. Useful for productivity sessions.",
+  "parameters": {
+    "type": "OBJECT",
+    "properties": {
+      "minutes": {
+        "type": "INTEGER",
+        "description": "The duration of the timer in minutes (e.g., 25 for a Pomodoro session)."
+      }
+    },
+    "required": [
+      "minutes"
+    ]
+  }
+}

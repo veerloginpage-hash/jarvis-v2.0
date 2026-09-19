@@ -1,0 +1,18 @@
+Class 11th Maths Chapter 1: Sets
+
+Definition:
+A set is a well-defined collection of distinct objects. These objects are called elements or members of the set.
+Example: The set of all vowels in the English alphabet is A = {a, e, i, o, u}.
+
+Types of Sets:
+- Empty Set: A set containing no elements, denoted by {} or Ø. Example: The set of whole numbers less than 0.
+- Finite Set: A set with a finite number of elements. Example: The set of days in a week.
+- Infinite Set: A set with an infinite number of elements. Example: The set of natural numbers (N = {1, 2, 3, ...}).
+- Subset: A set A is a subset of a set B if all elements of A are also elements of B, denoted by A ⊆ B. Example: If A = {1, 2} and B = {1, 2, 3}, then A ⊆ B.
+- Universal Set: A set that contains all elements relevant to a particular context, denoted by U.
+
+Set Operations:
+- Union (∪): The set of all elements in A or B. Example: If A={1,2}, B={2,3}, A∪B={1,2,3}.
+- Intersection (∩): The set of all elements in both A and B. Example: If A={1,2}, B={2,3}, A∩B={2}.
+- Complement (A'): The set of all elements in the universal set U that are not in A.
+- Difference (A-B): The set of elements in A but not in B. Example: If A={1,2,3}, B={2,4}, A-B={1,3}.

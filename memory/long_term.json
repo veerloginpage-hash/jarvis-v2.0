@@ -1,0 +1,65 @@
+{
+  "identity": {
+    "developer_name": {
+      "value": "Veer",
+      "updated": "2026-06-05"
+    },
+    "city": {
+      "value": "Delhi",
+      "updated": "2026-06-13"
+    }
+  },
+  "preferences": {
+    "friend_favorite_football_club": {
+      "value": "Al-Nassr",
+      "updated": "2026-06-01"
+    },
+    "favorite_football_club_or_team": {
+      "value": "Portugal (national team)",
+      "updated": "2026-06-11"
+    },
+    "default_song": {
+      "value": "Sharmili song",
+      "updated": "2026-06-12"
+    },
+    "second_default_song": {
+      "value": "[User provided song name]",
+      "updated": "2026-06-13"
+    }
+  },
+  "projects": {
+    "sister_study_focus": {
+      "value": "PCB, NEET, medical exams",
+      "updated": "2026-06-09"
+    },
+    "sister_neet_second_chance": {
+      "value": "Got another chance due to paper leak",
+      "updated": "2026-06-09"
+    }
+  },
+  "relationships": {
+    "mother_phone": {
+      "value": "Poco M7",
+      "updated": "2026-06-03"
+    },
+    "mother_phone_selector": {
+      "value": "user",
+      "updated": "2026-06-03"
+    },
+    "sister_12th_score": {
+      "value": "484/600 (approx 80%)",
+      "updated": "2026-06-09"
+    }
+  },
+  "wishes": {},
+  "notes": {
+    "creation_effort": {
+      "value": "user spent a lot of effort in creating the assistant",
+      "updated": "2026-06-01"
+    },
+    "open_recycle_bin_method": {
+      "value": "Use search (win+s) and enter",
+      "updated": "2026-06-11"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.sixth/
+gif_cache/
+jarvis_*.png
+config/api_keys.json
+memory/runtime/
